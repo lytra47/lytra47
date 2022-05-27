@@ -1,4 +1,4 @@
-Hi, I’m <strong>Sree Hari P S</strong> aka lytra47 
+Hi, I’m <strong>Sree Hari P S</strong> aka <p style="color: purple;">lytra47</p> 
 I’m interested in videogames, books and motorcycles.
 I’m currently learning MEARN Stack at Luminar Technolabs Kakkanad.
 
