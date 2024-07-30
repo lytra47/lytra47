@@ -3,8 +3,8 @@ Hi
 
 React Proejcts
 
-https://gimme-fact.netlify.app/ 
+Fact sharing webapp  -     https://gimme-fact.netlify.app/ 
 
-https://dashbsf.netlify.app/
+Shoppy dashboard     -     https://dashbsf.netlify.app/
 
-https://lytra47.github.io/productivity-plus/ (mini)
+Productivity plus    -     https://lytra47.github.io/productivity-plus/ (mini)
