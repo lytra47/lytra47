@@ -1,8 +1,6 @@
 Hi
 
 
-React Proejcts
-
 Fact sharing webapp  -     https://gimme-fact.netlify.app/ 
 
 Shoppy dashboard     -     https://dashbsf.netlify.app/
